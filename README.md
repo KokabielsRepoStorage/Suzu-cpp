@@ -84,3 +84,7 @@ Way higher storage needed (In current state : Code is 1gb JS code size : 626 meg
 Less liked language (Js is one of the most popular languages in the world.)
 I dont know if I can do custom images.
 
+### Setup
+
+Dowload my cpp file[s] (include folder if it has something) then follow the sleepy discord setup guide: 
+https://yourwaifu.dev/sleepy-discord/docs
