@@ -1,4 +1,5 @@
 # Suzu-cpp
+#I gave up on this idea. I just don't like c++ anymore, so I am not continuing with it. Repo is being archived
 ## The c++ version of the suzu bot
 # This is a very early WIP of the Suzu bot
 ## Downsides
